@@ -1,0 +1,6 @@
+.godot/
+.tools/
+build/
+fonts/*.otf
+fonts/*.import
+.vercel
